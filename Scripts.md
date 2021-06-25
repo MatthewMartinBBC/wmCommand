@@ -2,7 +2,7 @@
 
 ## Syntax
 
-A wmCommand script consists of one or more command separated by a new line or a  **;:**
+A wmCommand script consists of one or more command separated by a new line or a  **;**
 
 Individual elements of a command are separated by a space  
 Commands are case-insensitive but variables are case sensitive.
